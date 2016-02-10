@@ -1,10 +1,11 @@
 // Codigo original por JeeLabs http://news.jeelabs.org/code/
 // Liberado para dominio publico. Disfrutalo!!!
+// GNU GENERAL PUBLIC LICENSE v3.0
 //
 // Modificado y extendido por Red Byer 7/24/2013 to work with 3231 better
 //     www.redstoyland.com      Busca el codigo bajo el nombre de "mizraith" en github
 //
-// Simplificado por Alberto Crespo para mostrar la facilidad de uso del ChronoDot v2.1.
+// Modificado por Alberto Crespo para mostrar la facilidad de uso del ChronoDot v2.1.
 // Lee el articulo en el blog elgatoinquieto.net
 //
 
