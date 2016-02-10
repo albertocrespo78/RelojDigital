@@ -6,7 +6,7 @@
 //     www.redstoyland.com      Busca el codigo bajo el nombre de "mizraith" en github
 //
 // Modificado por Alberto Crespo para mostrar la facilidad de uso del ChronoDot v2.1.
-// Lee el articulo en el blog elgatoinquieto.net
+// Lee el articulo en el blog http://elgatoinquieto.net
 //
 
 
