@@ -1,3 +1,14 @@
+// Codigo original por JeeLabs http://news.jeelabs.org/code/
+// Liberado para dominio publico. Disfrutalo!!!
+//
+// Modificado y extendido por Red Byer 7/24/2013 to work with 3231 better
+//     www.redstoyland.com      Busca el codigo bajo el nombre de "mizraith" en github
+//
+// Simplificado por Alberto Crespo para mostrar la facilidad de uso del ChronoDot v2.1.
+// Lee el articulo en el blog elgatoinquieto.net
+//
+
+
 #include <Wire.h>
 #include <SPI.h>
 #include <RTClib.h>
@@ -5,9 +16,6 @@
 
 //Instancia del reloj.
 RTC_DS3231 RTC;
-
-
-
 
 
 
